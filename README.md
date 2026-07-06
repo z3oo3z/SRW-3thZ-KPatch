@@ -1,6 +1,6 @@
 # SRW-3thZ-KPatch
 <img width="1234" height="620" alt="image" src="https://github.com/user-attachments/assets/49e7463e-3e3e-4dd8-a2b4-8d5112b7b860" />
--베라요정님 작품-
+-타이틀 이미지 : 베라요정님 작품-
 
 
 PS3 제3차 슈퍼로봇대전Z 연옥편 한국어 패치
